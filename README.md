@@ -1,7 +1,7 @@
 # 🚦 Traffic Sign Detection
 
 **👨‍💻 Author:** Bhunith Kumar k
-**🔗 GitHub:** [https://github.com/bhunith058/traffic-sign-detection](https://github.com/bhunith058/traffic-sign-detection)
+**🔗 GitHub:** [https://github.com/bhunith058](https://github.com/bhunith058)
 
 ---
 
